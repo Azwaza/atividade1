@@ -1,0 +1,15 @@
+#nav-content {
+    background-color: #ff0000;
+    padding: 30px;
+}
+#ul-content {
+    list-style: none;
+    display: flex;
+    width: 30%;
+
+}
+#li-content {
+    display: flex;
+    list-style: none;
+    width: 30%;
+}
